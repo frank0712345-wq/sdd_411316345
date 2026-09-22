@@ -10,3 +10,7 @@ git commit -m 'add new file and modified'
 
 git log
 # testing git loggit
+# testing git log
+
+git iog --oneline
+# testing version difference
